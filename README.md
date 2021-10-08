@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @slightly-seasoned
-- 👀 I’m interested in game development!
-- 🌱 I’m currently learning Godot's GDScript, C++ & finishing off on learning Python.
+Hi, I’m @slightly-seasoned. I’m interested in game development and currently learning Godot's GDScript and Rust!
 
 <!---
 slightly-seasoned/slightly-seasoned is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
